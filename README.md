@@ -415,9 +415,9 @@ Open an issue on GitHub or contact the project maintainer.
 - 📈 Business intelligence & data visualization
 - 🚀 Production-ready data science solutions
 
-**GitHub:** [@aj-pardhiv](https://github.com)  
-**Portfolio:** [Portfolio Link]  
-**LinkedIn:** [LinkedIn Profile]
+**GitHub:** @itzPardhiv
+
+**LinkedIn:** 
 
 ---
 
