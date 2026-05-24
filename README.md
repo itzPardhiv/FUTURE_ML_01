@@ -9,6 +9,10 @@
 
 ---
 
+## Project Status
+
+This project is actively being improved as part of my machine learning portfolio.
+
 ## 📊 Overview
 
 **AI-Powered Retail Forecasting Intelligence Platform** is an enterprise-grade time-series forecasting solution built for retail analytics. This platform combines machine learning, advanced data visualization, and business intelligence to help retail organizations predict revenue trends, optimize inventory decisions, and identify regional market opportunities.
